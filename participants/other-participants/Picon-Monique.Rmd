@@ -1,0 +1,23 @@
+---
+title: "Picon-Monique"
+author: "Monique Picon"
+date: "September 19, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+***
+
+## INTRODUCTION
+#### Hi my name is Monique and I like **trees**
+
+#### My course goal is just to learn what *NEON* is up to in *Puerto Rico* and how to access the **D**A**T**A
+
+***
+
+## CAPSTONE PROJECT
+#### Hmmmmm.. ???
+
